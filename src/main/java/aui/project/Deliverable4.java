@@ -1,11 +1,3 @@
-
-/* This is the main for Deliverable 4
- * Team Members:
-   Afaf Bentakhou
-   Haytham Ziani
-   Younes Rahati
- */
-
 package aui.project;
 import Clothes.*;
 import java.util.Scanner;
