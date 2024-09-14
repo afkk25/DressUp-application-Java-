@@ -25,10 +25,10 @@ Key Features:
 Usage: Run this class to manage a dynamic clothing collection with persistent data storage.
 
 
-├── LICENSE
-├── README.md          <- Information about the project
+├── LICENSE\n
+├── README.md          <- Information about the project\n
 │   
-├── src                <- Source code folder for this project
+├── src                <- Source code folder for this project\n
     │
     ├── Clothes           <- Clothes Class
     │   
