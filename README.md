@@ -3,19 +3,23 @@ The DressUp Application is a Java-based project that simulates a clothing manage
 
 The primary goal of this project is to provide users with a simple interface to manage a collection of clothing items, incorporating features such as persistence (saving data), sorting, and searching.
 
-This project includes two main classes for interacting with a clothing management system:
+This project includes two main classes in the **aui/project** for interacting with a clothing management system:
 
 ## 1. DressUp.java
 Purpose: Manages user accounts, profiles, shipping, and payments.
+
 Key Features:
   - Create and manage accounts and profiles.
   - Add shipping and payment information.
   - Process a predefined list of 4 clothing items.
+
 Usage: Run this class to handle user registration and payment processes.
 ## 2. Deliverable4.java
 Purpose: Provides advanced clothing collection management (CRUD operations).
+
 Key Features:
   - Add, remove, modify, and sort clothing items.
   - Search items by price and category.
   - Load and save collections to a file.
+
 Usage: Run this class to manage a dynamic clothing collection with persistent data storage.
