@@ -25,16 +25,3 @@ Key Features:
 Usage: Run this class to manage a dynamic clothing collection with persistent data storage.
 
 
-├── LICENSE\n
-├── README.md          <- Information about the project\n
-│   
-├── src                <- Source code folder for this project\n
-    │
-    ├── Clothes           <- Clothes Class
-    │   
-    ├── Orders           <- Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
-    │
-    ├── User     <- Data dictionaries, manuals, and all other explanatory references used 
-    │
-    ├── aui/project          <- Master folder for all individual task folders
-
