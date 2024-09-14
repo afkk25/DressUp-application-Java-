@@ -23,3 +23,18 @@ Key Features:
   - Load and save collections to a file.
 
 Usage: Run this class to manage a dynamic clothing collection with persistent data storage.
+
+
+├── LICENSE
+├── README.md          <- Information about the project
+│   
+├── src                <- Source code folder for this project
+    │
+    ├── Clothes           <- Clothes Class
+    │   
+    ├── Orders           <- Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
+    │
+    ├── User     <- Data dictionaries, manuals, and all other explanatory references used 
+    │
+    ├── aui/project          <- Master folder for all individual task folders
+
