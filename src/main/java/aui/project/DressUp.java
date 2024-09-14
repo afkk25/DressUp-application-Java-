@@ -1,10 +1,3 @@
-/* This the main for the 3 first deliverables
- * Team Members:
-   Afaf Bentakhou
-   Haytham Ziani
-   Younes Rahati
- */
-
 package aui.project;
 import java.util.Scanner;
 import java.util.GregorianCalendar;
